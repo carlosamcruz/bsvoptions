@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bsvoptions/static/css/main.fc1db2f5.css",
+    "main.js": "/bsvoptions/static/js/main.2e5182bc.js",
+    "static/js/787.faa07b35.chunk.js": "/bsvoptions/static/js/787.faa07b35.chunk.js",
+    "index.html": "/bsvoptions/index.html",
+    "main.fc1db2f5.css.map": "/bsvoptions/static/css/main.fc1db2f5.css.map",
+    "main.2e5182bc.js.map": "/bsvoptions/static/js/main.2e5182bc.js.map",
+    "787.faa07b35.chunk.js.map": "/bsvoptions/static/js/787.faa07b35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1db2f5.css",
+    "static/js/main.2e5182bc.js"
+  ]
+}
